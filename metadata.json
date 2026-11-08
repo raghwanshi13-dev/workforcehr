@@ -1,0 +1,6 @@
+{
+  "name": "WorkforceHR",
+  "description": "Enterprise Employee Attendance & Leave Management with Geofencing, Shifts, Selfie Verification, and Auto PHP MySQL Schema Export",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
